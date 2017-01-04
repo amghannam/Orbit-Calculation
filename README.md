@@ -13,7 +13,11 @@ This should launch the program. Follow the on-screen instructons to continue.
 
 In the following example, we compute the orbital distance of a planet whose period is 0.82 years (~300 days) and parent star three times as massive as the Sun:
 
-![alt tag] (http://i.imgur.com/9f06FPP.png)
+<p align="center">
+  <br><br>
+  <img src="http://i.imgur.com/9f06FPP.png">
+  <br><br>
+</p>
 
 **Note:** AU stands for *Astronomical Unit* and is the average distance of the Earth from the Sun, equivalent to about 150 million kilometers (~93 million miles). 
 
