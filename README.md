@@ -1,4 +1,4 @@
-## Orbit-Calculation
+## Planetary Orbit Calculation
 A Java program that computes the orbital distance and velocity of a planet given the mass of its parent star and its orbital period, using [Kepler's Third Law of Planetary Motion] (https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion). 
 
 ### How to Run
