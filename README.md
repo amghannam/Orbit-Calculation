@@ -3,7 +3,7 @@ A Java program that computes the orbital distance and velocity of a planet given
 
 ### How to Run
 
-To run the tool, execute the following command in the directory where the .jar file resides:
+To run the program, execute the following command in the directory where the ```.jar``` file resides:
 
 ```> java -jar GUI.jar```
 
@@ -14,3 +14,7 @@ This should launch the program. Follow the on-screen instructons to continue.
 In the following example, we compute the orbital distance of a planet whose period is 0.82 years (~300 days) and parent star three times as massive as the Sun:
 
 ![alt tag] (http://i.imgur.com/9f06FPP.png)
+
+### Help
+
+For questions or comments, please email me at amalghannam@crimson.ua.edu. 
